@@ -16,4 +16,3 @@ else
   git push
 
   cd ..
-fi
