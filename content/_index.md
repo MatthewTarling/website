@@ -236,12 +236,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: 3D-printing
     content:
-      title: Recent & Upcoming Talks
+      title: 3D Printing
       filters:
         folders:
-          - event
+          - 3D-printing
     design:
       columns: '2'
       view: compact

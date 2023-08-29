@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: 3D Prints
+    url: '#3D-printing'
     weight: 40
   - name: Publications
     url: '#featured'
