@@ -23,6 +23,8 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''
@@ -43,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Matthew Tarling'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
