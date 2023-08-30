@@ -82,6 +82,8 @@ highlight_name: true
 <br /> 
 <br /> 
 
+28/08/2023 WEBSITE IN PROGRESS
+
 I am a field geologist, and currently a postdoc in the Department of Earth and Planetary Sciences at McGill University. I think about how the interaction of structure, rock deformation processes, and mineral reactions controls the evolution of large faults and shear zones over the seismic cycle. 
 
 <!-- My research lies at the intersection between structural geology and rock deformation, geochemistry and mineralogy, and is rooted in careful and quantitative field observations across a wide range of dimensional and spatial scales, supported by high-resolution microstructural, analytical, and experimental work. -->
