@@ -10,21 +10,27 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
+  - name: Publications
+    url: '#publications'
+    weight: 15
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: 3D Prints
+  - name: 3D Printing
     url: '#3D-printing'
     weight: 40
-  - name: Publications
-    url: '#publications'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  - name: Field Safety
+    url: '#field-safety'
+    weight: 65
+  - name: Outreach
+    url: '#outreach'
+    weight: 65
   - name: CV
     url: 'uploads/resume.pdf'
     weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 75
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
