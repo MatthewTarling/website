@@ -13,9 +13,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 15
-  - name: Projects
+  - name: Research
     url: '#projects'
     weight: 30
+  - name: Teaching
+    url: '#teaching'
+    weight: 35
   - name: 3D Printing
     url: '#3D-printing'
     weight: 40
