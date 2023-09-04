@@ -79,8 +79,7 @@ highlight_name: true
 ---
 <br /> 
 <br /> 
-<br /> 
-<br /> 
+
 
 **Welcome!** I am a field-based structural geologist looking to develop a better understanding of the structure, rheology and evolution of large faults and shear zones over the seismic cycle. I'm currently a postdoc in the Department of Earth and Planetary Sciences at McGill University. 
 
