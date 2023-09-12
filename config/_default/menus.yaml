@@ -13,6 +13,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 17
+  # - name: Lab
+  #   url: '#lab'
+  #   weight: 30
   - name: Research
     url: '#projects'
     weight: 12
@@ -26,7 +29,7 @@ main:
     url: '#field-safety'
     weight: 65
   - name: Outreach
-    url: '#outreach'
+    url: outreach/
     weight: 65
   - name: CV
     url: 'uploads/resume.pdf'

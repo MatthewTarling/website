@@ -81,10 +81,10 @@ highlight_name: true
 <br /> 
 
 
-**Welcome!** I am a field-based structural geologist looking to develop a better understanding of the structure, rheology and evolution of large faults and shear zones over the seismic cycle. I'm currently a postdoc in the Department of Earth and Planetary Sciences at McGill University. 
-
-My work explores how the interaction of structure, rock deformation processes, and mineral reactions influences the slip behaviour of faults. Using observational field geology as the foundation of my methodology, I apply a field-to-nanoscale approach, starting at the scale of the mountainside outcrop, and working my way all the way down to the crystal lattice of the minerals within. This multi-scale approach allows me to probe questions across many spatial and temporal orders of magnitude, from the scale of the subduction megathrusts to the geological outcrop, down to mineral’s crystal lattice, all the while pondering timescales ranging from the entirety of an orogeny to the near-instantaneous earthquake rupture.
+**Welcome!!!** 
 
 
+As a field-based structural geologist, I study how rocks squish and break in the interior of the Earth. I'm currently a postdoc in the [Field Rheology Rowe Research Group](https://www.eps.mcgill.ca/~crowe/) at McGill University in Montréal, Québec, Canada. For more details on my research, check out my [research project page.]({{< ref "https://matthewtarling.github.io/#projects" >}} "Research")
 
-<!-- My research lies at the intersection between structural geology and rock deformation, geochemistry and mineralogy, and is rooted in careful and quantitative field observations across a wide range of dimensional and spatial scales, supported by high-resolution microstructural, analytical, and experimental work. -->
+
+I'm passionate about outreach and interested in developing new outreach tools to increase interest and recruitment in the Earth Sciences. Check my latest outreach project [*"Viewing the Rock World"*.]({{< ref "https://matthewtarling.github.io/#projects" >}} "Research")
