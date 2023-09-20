@@ -38,9 +38,13 @@ sections:
 
     
       
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My work explores how the interaction of structures, rock deformation processes, and mineral reactions influences the slip behaviour of faults. Using observational field geology as the foundation of my methodology, I apply a field-to-nanoscale approach, starting at the scale of the mountainside outcrop, and working my way all the way down to the crystal lattice of the minerals within. This multi-scale approach allows me to probe questions across many spatial and temporal orders of magnitude, from the scale of the subduction megathrusts to the geological outcrop, down to mineral’s crystal lattice, all the while pondering timescales ranging from the entirety of an orogeny to the near-instantaneous earthquake rupture.
+      &nbsp; &nbsp; &nbsp; My work explores how the interaction of structure, rock deformation processes, and mineral reactions influences the slip behaviour of faults. Using observational field geology as the foundation of my methodology, I apply a field-to-nanoscale approach, starting at the scale of the mountainside outcrop, and working my way all the way down to the crystal lattice of the minerals within. This multi-scale approach allows me to probe questions across many spatial and temporal orders of magnitude, from the scale of the subduction megathrusts to the geological outcrop, down to mineral’s crystal lattice, all the while pondering timescales ranging from an entire orogeny to the near-instantaneous earthquake rupture.
 
-      See selected research projects below, which can be filtered by the tags. Explore a list of all projects 
+
+
+      Here is (an incomplete) list of few of my project that will grow as I update this site. 
+
+
       
       <br>
       <br>
@@ -100,17 +104,17 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
-    id: 3D-printing
-    content:
-      title: 3D Printing
-      subtitle: I've recently been playing around with the intersection of 3D printing and the Earth Science. On this page you will find some of these little projects, with the .STL files for you to try printing them yourself! Don't hesitate to drop me a line if you need a hand with something or have any questions!
-      filters:
-        folders:
-          - 3D-printing
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: 3D-printing
+  #   content:
+  #     title: 3D Printing
+  #     subtitle: I've recently been playing around with the intersection of 3D printing and the Earth Science. On this page you will find some of these little projects, with the .STL files for you to try printing them yourself! Don't hesitate to drop me a line if you need a hand with something or have any questions!
+  #     filters:
+  #       folders:
+  #         - 3D-printing
+  #   design:
+  #     columns: '2'
+  #     view: compact
     # - block: markdown
     #   id: outreach
     # content:

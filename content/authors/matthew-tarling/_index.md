@@ -67,9 +67,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: fas
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,10 +81,10 @@ highlight_name: true
 <br /> 
 
 
-**Welcome!!!** 
+**Welcome!** 
 
 
 As a field-based structural geologist, I study how rocks squish and break in the interior of the Earth. I'm currently a postdoc in the [Field Rheology Rowe Research Group](https://www.eps.mcgill.ca/~crowe/) at McGill University in Montréal, Québec, Canada. For more details on my research, check out my [research project page.]({{< ref "https://matthewtarling.github.io/#projects" >}} "Research")
 
 
-I'm passionate about outreach and interested in developing new outreach tools to increase interest and recruitment in the Earth Sciences. Check my latest outreach project [*"Viewing the Rock World"*.]({{< ref "https://matthewtarling.github.io/#projects" >}} "Research")
+I'm passionate about outreach and interested in developing new tools to increase interest and recruitment in the Earth Sciences. To find out more check my latest outreach project [*Viewing the Rock World*.]({{< ref "https://matthewtarling.github.io/outreach" >}} "Outreach")

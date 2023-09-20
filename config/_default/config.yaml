@@ -25,10 +25,17 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/MatthewTarling/wowchemy-block-3dblock
+
+
+  
+
+    
 
 ############################
 ## ADVANCED
 ############################
+
 
 enableGitInfo: false
 summaryLength: 30
@@ -73,3 +80,4 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
