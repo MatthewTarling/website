@@ -1,5 +1,5 @@
 ---
-title: Deciphering cryptic crack-seal veins
+title: Cryptic crack-seals 
 summary: 
 # tags:
 #   - Deep Learning

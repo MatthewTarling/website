@@ -9,4 +9,4 @@ toc: false
 weight: 100
 ---
 
-Thank you to the [Field Rheology Rowe Research Group](https://www.eps.mcgill.ca/~crowe/) for creative support. A special thanks to [Meghomita Das](https://meghomita.com/) who came up with the project name "*Viewing the Rock World*".
+Thank you to the [Field Rheology Rowe Research Group](https://www.eps.mcgill.ca/~crowe/) for their valuable contributions in both creativity and design support. A special thanks goes to my colleague [Meghomita Das](https://meghomita.com/) wfor her role in conceiving the project name "*Viewing the Rock World*".

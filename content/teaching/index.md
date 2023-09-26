@@ -9,30 +9,32 @@ share: false
 ---
 
 <div class="image-container">
-  <img src="/path/to/image1.jpg" alt="Image 1" width="200" height="200">
-  <img src="/path/to/image2.jpg" alt="Image 2" width="200" height="200">
-  <img src="/path/to/image3.jpg" alt="Image 3" width="200" height="200">
-  <img src="/path/to/image4.jpg" alt="Image 4" width="200" height="200">
+  <img src="t5.jpg" alt="Image 1" width="200" height="300">
+  <img src="t7.jpg" alt="Image 2" width="200" height="300">
+  <img src="t8.jpg" alt="Image 3" width="200" height="300">
+  <img src="t1.jpg" alt="Image 4" width="200" height="300">
 </div>
 
-# Courses Taught
 
-Here's a list of the courses I've had the pleasure of teaching:
+Courses Taught
 
-1. **Course Title 1**
-   Description of the first course you taught goes here. You can include details such as course objectives, topics covered, and any special achievements or outcomes.
+1. **EPSC303 Structural Geology**
 
-2. **Course Title 2**
-   Description of the second course you taught goes here.
+Third year structural geology course. Designed and taught lectures with regular hands-on exercises, designed new student-lead laboratory experiments and led field trips to promote experiential learning. Top rated course in the EPS Department in student course evaluations for Fall 2022
 
-3. **Course Title 3**
-   Description of the third course you taught goes here.
+<br>
 
-4. **Course Title 4**
-   Description of the fourth course you taught goes here.
+2. **EPSC231 Field School I**
+
+Introductory field mapping course. Led 2 week undergraduate field course in Nevada and California designed to introduce students to geological field mapping of tectonically deformed landscapes.
 
 
+![](prada.jpg)
 
+McGill EPSC303 Structural geology Fall 2022 students Dana Marino, Abbi Baran, and 
+Clara Schryer 
+
+<video src="Prada.mp4" controls title="Title"></video>
 
 <style>
 /* CSS for the Teaching section */
