@@ -42,7 +42,7 @@ If you print one of these boxes, please send me pictures, and I will add it to a
 
 A simple box with a friction-fit slide lid. This design fits both 27x46mm and 28x48 mm glass slides.
 
-Download the .STL files here. 
+{{% staticref "uploads/frictionfitTSbox.zip" "newtab" %}}Download the .STL files{{% /staticref %}}
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
