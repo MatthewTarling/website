@@ -38,7 +38,7 @@ sections:
 
     
       
-      &nbsp; &nbsp; &nbsp; My work explores how the interaction of structure, rock deformation processes, and mineral reactions influences the slip behaviour of faults. Using observational field geology as the foundation of my methodology, I apply a field-to-nanoscale approach, starting at the scale of the mountainside outcrop, and working my way all the way down to the crystal lattice of the minerals within. This multi-scale approach allows me to probe questions across many spatial and temporal orders of magnitude, from the scale of the subduction megathrusts to the geological outcrop, down to mineral’s crystal lattice, all the while pondering timescales ranging from an entire orogeny to the near-instantaneous earthquake rupture.
+      My work explores how the interaction of structure, rock deformation processes, and mineral reactions influences the slip behaviour of faults. Using observational field geology as the foundation of my methodology, I apply a field-to-nanoscale approach, starting at the scale of the mountainside outcrop, and working my way all the way down to the crystal lattice of the minerals within. This multi-scale approach allows me to probe questions across many spatial and temporal orders of magnitude, from the scale of the subduction megathrusts to the geological outcrop, down to a mineral’s crystal lattice, all the while pondering timescales ranging from an entire orogeny to the near-instantaneous earthquake rupture.
 
 
 

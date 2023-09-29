@@ -1,5 +1,5 @@
 ---
-title: How you can get involved!
+title: Get involved!
 
 summary: 
 #date: "2021-08-19"
@@ -9,5 +9,4 @@ toc: false
 weight: 2
 ---
 
-
-
+In this first phase of this project, there are 3 main ways you can get involved and contribute to the project.
